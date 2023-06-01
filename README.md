@@ -1,4 +1,4 @@
-### Hi there 👋
+![stearz](https://socialify.git.ci/stearz/stearz/image?description=1&descriptionEditable=nerd%20%7C%20husband%20%7C%20father&font=Source%20Code%20Pro&language=1&name=1&pattern=Circuit%20Board&theme=Auto)
 
 <!--
 **stearz/stearz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
