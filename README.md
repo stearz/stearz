@@ -2,7 +2,7 @@
 
 |.:.|.:.|
 |-|-|
-| 🌱 currently learning | **Golang** |
+| 🌱 currently learning / preparing for | **CKA certification** |
 | 📝 I write from time to time | [Medium](https://medium.com/@stearz) |
 | 📫 Reach me via | [LinkedIn](https://linkedin.com/in/stearz) |
 | ⚡ Fun fact | **I am a certified Scrum Master (PSM1)** |
