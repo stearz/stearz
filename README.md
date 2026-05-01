@@ -41,6 +41,11 @@
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is your Internal Developer Platform &lpar;IDP&rpar; an asset or a liability?](https://medium.com/@stearz/is-your-internal-developer-platform-idp-an-asset-or-a-liability-194ceceb4d5e?source=rss-95df8f367297------2)
+- [Build a successful Internal Developer Platform](https://medium.com/@stearz/build-a-successful-internal-developer-platform-8988471820d1?source=rss-95df8f367297------2)
+- [Performance testing Kubernetes workloads](https://medium.com/@stearz/performance-testing-kubernetes-workloads-144b2d8e4fb5?source=rss-95df8f367297------2)
+- [Can we please stop saying DevOps and  Platform Engineering?](https://medium.com/@stearz/can-we-please-stop-saying-devops-and-platform-engineering-fd08c533fb12?source=rss-95df8f367297------2)
+- [What a toaster and a microservice have in common](https://medium.com/@stearz/what-a-toaster-and-a-microservice-have-in-common-189c6757312a?source=rss-95df8f367297------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
