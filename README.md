@@ -17,7 +17,6 @@
 
 ## Projects
 
-- 🧪 **[dalab](https://github.com/stearz/dalab)** — JupyterHub-based agent test lab; treat your AI like a hypothesis
 - 💬 **[thawts](https://github.com/thawts/thawts)** — thought-noting app; because your brain deserves a better filing system
 - 🎤 **[slides](https://github.com/stearz/slides)** — public talks and presentations
 - 🔧 **[atlassian-helpers](https://github.com/stearz/atlassian-helpers)** — helpers for working with Atlassian Bitbucket; automation scripts and tooling for the things their UI forgot to include
@@ -35,8 +34,8 @@
 | Date            | Event                       | Location          | Topic                                                                                                                                                                  |
 | --------------- | --------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dec 8–11, 2025  | IT Tage 2025                | Frankfurt         | [Lasttests für Kubernetes-Workloads](https://github.com/stearz/slides/blob/main/2025%20-%20IT-Tage%20-%20Lasttests%20f%C3%BCr%20Kubernetes-Workloads%20-%20GERMAN.pdf) |
-| May 19–22, 2026 | CloudLand 2026 *(upcoming)* | Heide Park Soltau | Performance Testing Kubernetes Workloads                                                                                                                               |
-| Sep 16–17, 2026 | TACON 2026 *(upcoming)*     | Leipzig           | Performance Testing Kubernetes Workloads                                                                                                                               |
+| May 19–22, 2026 | CloudLand 2026              | Heide Park Soltau | Performance Testing Kubernetes Workloads                                                                                                                               |
+| Sep 16–17, 2026  | TACON 2026 *(upcoming)*      | Leipzig            | Performance Testing Kubernetes Workloads                                                                                                                               |
 
 ## Latest Posts
 
