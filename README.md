@@ -31,12 +31,19 @@
 
 ## Talks
 
+### 2026
+
 | Date            | Event                       | Location          | Topic                                                                                                                                                                  |
 | --------------- | --------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dec 7–10, 2026   | [IT Tage 2026 *(upcoming)*](https://www.ittage.informatik-aktuell.de/programm) | Frankfurt          | Fehler managen – Der Weg zur evolutionären IT                                                                                                                          |
-| Sep 16–17, 2026  | [TACON 2026 *(upcoming)*](https://events.summit-community.de/event/tacon-2026/agenda/) | Leipzig            | Kubernetes-Workloads unter Last: Tools, Herausforderungen und Best Practices                                                                                            |
-| May 19–22, 2026 | [CloudLand 2026](https://meine.doag.org/events/cloudland/2026/agenda/#agendaId.7205) | Heide Park Soltau | [Performance Testing Kubernetes Workloads](https://github.com/stearz/slides/blob/main/2026%20-%20CloudLand%20-%20Performance%20testing%20Kubernetes-Workloads%20-%20GERMAN.pdf) |
-| Dec 8–11, 2025  | [IT Tage 2025](https://www.ittage.informatik-aktuell.de/konferenz/it-tage-2025/programm-2025.html) | Frankfurt         | [Lasttests für Kubernetes-Workloads](https://github.com/stearz/slides/blob/main/2025%20-%20IT-Tage%20-%20Lasttests%20f%C3%BCr%20Kubernetes-Workloads%20-%20GERMAN.pdf) |
+| Dec 7–10        | [IT Tage *(upcoming)*](https://www.ittage.informatik-aktuell.de/programm) | Frankfurt          | Fehler managen – Der Weg zur evolutionären IT                                                                                                                          |
+| Sep 16–17       | [TACON *(upcoming)*](https://events.summit-community.de/event/tacon-2026/agenda/) | Leipzig            | Kubernetes-Workloads unter Last: Tools, Herausforderungen und Best Practices                                                                                            |
+| May 19–22       | [CloudLand](https://meine.doag.org/events/cloudland/2026/agenda/#agendaId.7205) | Heide Park Soltau | [Performance Testing Kubernetes Workloads](https://github.com/stearz/slides/blob/main/2026%20-%20CloudLand%20-%20Performance%20testing%20Kubernetes-Workloads%20-%20GERMAN.pdf) |
+
+### 2025
+
+| Date            | Event                       | Location          | Topic                                                                                                                                                                  |
+| --------------- | --------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dec 8–11        | [IT Tage](https://www.ittage.informatik-aktuell.de/konferenz/it-tage-2025/programm-2025.html) | Frankfurt         | [Lasttests für Kubernetes-Workloads](https://github.com/stearz/slides/blob/main/2025%20-%20IT-Tage%20-%20Lasttests%20f%C3%BCr%20Kubernetes-Workloads%20-%20GERMAN.pdf) |
 
 ## Latest Posts
 
