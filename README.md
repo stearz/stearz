@@ -19,7 +19,7 @@ that solve annoyingly specific problems.
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you, too, let your customers test your app’s performance?](https://medium.com/@stearz/do-you-too-let-your-customers-test-your-apps-performance-463465f03d2b?source=rss-95df8f367297------2)
+- [Your users are not your performance testing team](https://medium.com/@stearz/do-you-too-let-your-customers-test-your-apps-performance-463465f03d2b?source=rss-95df8f367297------2)
 - [The boring truth about AI in software engineering](https://medium.com/@stearz/yet-another-lurid-but-boring-article-about-ai-55f0a47b2a83?source=rss-95df8f367297------2)
 - [Is your Internal Developer Platform &lpar;IDP&rpar; an asset or a liability?](https://medium.com/@stearz/is-your-internal-developer-platform-idp-an-asset-or-a-liability-194ceceb4d5e?source=rss-95df8f367297------2)
 <!-- BLOG-POST-LIST:END -->
