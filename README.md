@@ -73,14 +73,7 @@ that solve annoyingly specific problems.
     </tr>
     <tr>
       <td>2026</td>
-      <td>Sep 16–17</td>
-      <td><a href="https://events.summit-community.de/event/tacon-2026/agenda/">TACON</a></td>
-      <td>Leipzig</td>
-      <td><a href="https://github.com/stearz/slides/blob/main/2026%20-%20TACON%20-%20Kubernetes-Workloads%20unter%20Last%20-%20GERMAN.pdf">Kubernetes-Workloads unter Last: Tools, Herausforderungen und Best Practices</a></td>
-    </tr>
-    <tr>
-      <td>2026</td>
-      <td>Dec 7–10</td>
+      <td><a href="https://urlendar.stearz.net/v1/event?title=Fehler+managen+%E2%80%93+Der+Weg+zur+evolution%C3%A4ren+IT&amp;start=2026-12-10T09%3A00%3A00%2B01%3A00&amp;end=2026-12-10T09%3A45%3A00%2B01%3A00&amp;location=Kap+Europa%2C+Frankfurt+am+Main&amp;url=https%3A%2F%2Fittage.informatik-aktuell.de%2Fprogramm%2F2026%2Ffehler-managen-der-weg-zur-evolutionaeren-it.html" title="Add to calendar with URLendar">Dec 10, 09:00–09:45</a></td>
       <td><a href="https://www.ittage.informatik-aktuell.de/programm">IT Tage</a></td>
       <td>Frankfurt</td>
       <td>Fehler managen – Der Weg zur evolutionären IT</td>
@@ -90,6 +83,13 @@ that solve annoyingly specific problems.
     </tr>
     <tr>
       <td colspan="5"><h3>Past events</h3></td>
+    </tr>
+    <tr>
+      <td>2026</td>
+      <td>Sep 16–17</td>
+      <td><a href="https://events.summit-community.de/event/tacon-2026/agenda/">TACON</a></td>
+      <td>Leipzig</td>
+      <td><a href="https://github.com/stearz/slides/blob/main/2026%20-%20TACON%20-%20Kubernetes-Workloads%20unter%20Last%20-%20GERMAN.pdf">Kubernetes-Workloads unter Last: Tools, Herausforderungen und Best Practices</a></td>
     </tr>
     <tr>
       <td>2026</td>
