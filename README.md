@@ -40,8 +40,16 @@ that solve annoyingly specific problems.
       <td>Public talks and presentations</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/stearz/atlassian-helpers">atlassian-helpers</a></strong></td>
-      <td>Helpers for working with Atlassian Bitbucket; automation scripts and tooling for the things their UI forgot to include</td>
+      <td><strong><a href="https://github.com/stearz/voidshell">voidshell</a></strong></td>
+      <td>Kubernetes workspaces over SSH, authenticated with your GitHub SSH keys</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/stearz/urlendar">URLendar</a></strong></td>
+      <td>Calendar events as shareable URLs; no accounts, database, or tracking</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/stearz/Darniri">Darniri</a></strong></td>
+      <td>Niri-style scrolling window manager for macOS, derived from OmniWM</td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/stearz/anger-bash">anger-bash</a></strong></td>
@@ -70,6 +78,13 @@ that solve annoyingly specific problems.
   <tbody>
     <tr>
       <td colspan="5"><h3>Upcoming events</h3></td>
+    </tr>
+    <tr>
+      <td>2026</td>
+      <td><a href="https://urlendar.stearz.net/v1/event?title=EuregJUG+%E2%80%93+Kubernetes+Workloads+under+Load&amp;start=2026-11-03T18%3A30%3A00%2B01%3A00&amp;end=2026-11-03T22%3A30%3A00%2B01%3A00&amp;location=INFORM+GmbH%2C+Pascalstra%C3%9Fe+51%2C+52076+Aachen&amp;url=https%3A%2F%2Feuregjug.dev&amp;description=EuregJUG+is+the+Java+User+Group+for+Aachen+and+the+Euregio+Maas-Rhine+region%2C+bringing+developers+together+for+talks%2C+workshops%2C+and+networking.+Talk%3A+Kubernetes+Workloads+under+Load.+Starts+at+18%3A30+CET.+Calendar+end+time+is+provisional%3B+the+actual+event+end+time+has+not+been+confirmed." title="Add to calendar with URLendar">Nov 3, 18:30</a></td>
+      <td><a href="https://euregjug.dev">EuregJUG</a></td>
+      <td>Aachen</td>
+      <td><a href="https://github.com/stearz/slides/blob/main/2026%20-%20EuregJUG%20-%20Kubernetes%20Workloads%20under%20Load.pdf">Kubernetes Workloads under Load</a></td>
     </tr>
     <tr>
       <td>2026</td>
