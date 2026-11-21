@@ -19,11 +19,11 @@ that solve annoyingly specific problems.
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [AI won’t make us faster. It just moved the finish line.](https://medium.com/@stearz/ai-wont-make-us-faster-it-just-moved-the-finish-line-6ce9ceb568f4?source=rss-95df8f367297------2)
 - [Attention Engineering: What using AI agents has taught me](https://medium.com/@stearz/attention-engineering-ab937bca330a?source=rss-95df8f367297------2)
 - [Your users are not your performance testing team](https://medium.com/@stearz/do-you-too-let-your-customers-test-your-apps-performance-463465f03d2b?source=rss-95df8f367297------2)
 - [The boring truth about AI in software engineering](https://medium.com/@stearz/yet-another-lurid-but-boring-article-about-ai-55f0a47b2a83?source=rss-95df8f367297------2)
 - [Is your Internal Developer Platform &lpar;IDP&rpar; an asset or a liability?](https://medium.com/@stearz/is-your-internal-developer-platform-idp-an-asset-or-a-liability-194ceceb4d5e?source=rss-95df8f367297------2)
-- [Build a successful Internal Developer Platform](https://medium.com/@stearz/build-a-successful-internal-developer-platform-8988471820d1?source=rss-95df8f367297------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Projects & Contributions
